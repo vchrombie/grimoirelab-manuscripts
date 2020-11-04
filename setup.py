@@ -26,7 +26,7 @@ import re
 
 from setuptools import setup
 
-here = os.path.abspath(os.path.dirname(__file__))
+here = os.path.abspath(os.path.dirname('__file__'))
 readme_md = os.path.join(here, 'README.md')
 version_py = os.path.join(here, 'manuscripts', '_version.py')
 

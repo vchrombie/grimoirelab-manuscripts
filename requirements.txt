@@ -1,5 +1,5 @@
 matplotlib>=3.0.0
 prettyplotlib==0.1.7
 elasticsearch-dsl==7.3.0
-grimoire-elk>=0.63.0
-sortinghat>=0.7.7
+-e git+https://github.com/chaoss/grimoirelab-sortinghat/#egg=grimoirelab-sortinghat
+-e git+https://github.com/chaoss/grimoirelab-elk/#egg=grimoirelab-elk

@@ -1,4 +1,4 @@
-matplotlib>=3.0.0
+matplotlib==2.0.2
 prettyplotlib==0.1.7
 elasticsearch-dsl==7.3.0
 -e git+https://github.com/chaoss/grimoirelab-sortinghat/#egg=grimoirelab-sortinghat

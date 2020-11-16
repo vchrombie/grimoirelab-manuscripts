@@ -1,2 +1,5 @@
-# Reuse the setup.py one
--e .
+matplotlib>=3.0.0
+prettyplotlib==0.1.7
+elasticsearch-dsl==7.3.0
+grimoire-elk>=0.30.4
+sortinghat>=0.4.2
